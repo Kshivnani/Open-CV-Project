@@ -1,4 +1,3 @@
-
 <div align="center">
   <h1>Gesture Volume Control</h1>
  </div>
